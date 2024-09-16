@@ -1,0 +1,136 @@
+body{
+  background-color: #A1DD70;
+  /*  */
+  font-family: "Playpen Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  
+}
+
+h1{
+  
+  font-size: 7em;
+  color: white;
+}
+section{
+  background-image: url("C:\Users\COYG\Desktop\Web development\HBD\picOne.jpeg");
+}
+h2{
+  /* 
+  font-size: 3em;
+  color: white; */
+  
+  font-size: 2.3em;
+  
+  margin: 0px 30px;
+}
+
+h3{
+  
+  font-size: 2em;
+  color: white;
+}
+
+hr{
+  border: dotted white 10px;
+  border-bottom: none;
+  width: 6%;
+  margin: 5px auto;
+}
+p{
+  
+  font-size: 2.2em;
+  line-height: 43px;
+  margin: 0px 30px;
+  color: aliceblue;
+}
+
+
+.allDivisions{
+  text-align: center;
+  line-height: 1;
+}
+
+.wishes{
+  font-size: 30px;
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+}
+
+.wishdivision{
+  background: url("MainPicture.jpeg");
+  background-size: 1100px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  height: 700px;
+  padding: 200px 0px;
+}
+
+.introDivision{
+  padding: 200px 0px;
+}
+
+.mainDivision{
+  padding: 200px 0px;
+  background-color: #A1DD70;
+}
+
+.bottomDivision{
+  padding: 200px 0px;
+  background-color: #A1DD70;
+}
+
+.inlineBlockZero{
+  margin-bottom: 80px;
+}
+
+#sentenceOne{
+  margin-bottom: 100px;
+}
+
+.inlineBlockOne{
+  display: inline-block;
+}
+
+.inlineBlockTwo{
+  display: inline-block;
+}
+
+.inlineBlockThree{
+  display: inline-block;
+}
+
+.inlineBlockFour{
+  display: inline-block;
+}
+
+.lastBlock{
+  display: inline-block;
+  padding: 0px 50px;
+}
+
+.inlineBlockReal{
+  display: inline-block;
+  padding: 0px 50px;
+}
+
+.setOne{
+  display: inline-block;
+  padding: 0px 50px;
+}
+
+.setThree{
+  display: inline-block;
+  padding: 0px 50px;
+}
+.bday,p{
+  /* font-weight: bolder; */
+}
+
+span{
+  color: #75A47F;
+  font-weight: 700;
+  text-shadow: 3px 3px 3px rgb(254, 254, 254);
+}
